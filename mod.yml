@@ -469,3 +469,7 @@ assets:
   method: copy
   source:
   - name: remastered\obj\M_EX950_DICE.mdlx\-0.dds
+- name: remastered\obj\B_EX410.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX410.mdlx\-1.dds
