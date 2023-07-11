@@ -453,3 +453,19 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_LK100.mdlx\-1.dds
+- name: remastered\obj\M_EX950_CARD.a.us\-4.dds
+  method: copy
+  source:
+  - name: remastered\obj\M_EX950_CARD.a.us\-4.dds
+- name: remastered\obj\M_EX950_CARD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\M_EX950_CARD.mdlx\-0.dds
+- name: remastered\obj\M_EX950_DICE.a.us\-3.dds
+  method: copy
+  source:
+  - name: remastered\obj\M_EX950_DICE.a.us\-3.dds
+- name: remastered\obj\M_EX950_DICE.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\M_EX950_DICE.mdlx\-0.dds
