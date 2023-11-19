@@ -473,3 +473,23 @@ assets:
   method: copy
   source:
   - name: remastered\obj\B_EX410.mdlx\-1.dds
+- name: remastered\msn\us\EH14_MS103.bar\US_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered\msn\us\EH14_MS103.bar\US_EH14_MS103_bar0.png
+- name: remastered\msn\us\EH14_MS103.bar\US_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered\msn\us\EH14_MS103.bar\US_EH14_MS103_bar2.png
+- name: remastered\msn\us\HB33_FM_LEX.bar\US_HB33_FM_LEX_bar0.png
+  method: copy
+  source:
+  - name: remastered\msn\us\HB33_FM_LEX.bar\US_HB33_FM_LEX_bar0.png
+- name: remastered\menu\fr\pause.2ld\FR_pause_2ld1.dds
+  method: copy
+  source:
+  - name: remastered\menu\fr\pause.2ld\FR_pause_2ld1.dds
+- name: remastered\menu\us\pause.2ld\US_pause_2ld1.dds
+  method: copy
+  source:
+  - name: remastered\menu\us\pause.2ld\US_pause_2ld1.dds
